@@ -30,6 +30,7 @@ Our mission is to **elevate Kerala to the world** through blockchain innovation,
 ---
 
 ## 📌 Community Links  
+
 - 🌐 Website: [rabcoinprince.com](https://rabcoinprince.com)  
 - 📄 Whitepaper: [View Whitepaper](https://rabcoinprince.com/wp-content/uploads/2025/09/rabcoin-whitepaper-2.pdf)  
 - 🔗 BscScan: [View Contract](https://bscscan.com/token/0xAcF899f88Bdad498d1AE2e1533EFbf89f1A6F1ce)  
